@@ -24,7 +24,7 @@ Vous avez :
 * la fonction `addEventListener` attend un click sur votre variable addButton  
 * Quand le click arrive, cela lance la fonction `addToDoItem` (fonction que vous n'avez pas encore écrite)  
 
-ajouter le code suivant à votre script : 
+* ajouter le code suivant à votre script : 
 `function addToDoItem(){    
   alert("Clic reussi!");  
 }`  
