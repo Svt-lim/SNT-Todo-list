@@ -8,6 +8,7 @@ Le code de base inclu 3 fichiers (sous la forme de 3 onglets) :
 * _index.html_ - le squelette de la page  
 * _style.css_ - le fichier de style de votre page  
 * _script.js_ - le fichier pour le javascript  
+-------------------------------------------
 Le squelette et le style ayant été préparés pour vous, vous allez surtout interagir avec _script.js_ .  
 vous avez 4 boutons : _Add_,_Clear Completed_,_Empty List_;_Save List_.  
 La première chose à faire est de relier les boutons au script. 
