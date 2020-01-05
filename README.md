@@ -30,9 +30,9 @@ function addToDoItem(){
 }  
 -------------------------------------------
 # Défi 1 : écrire le code pour les 3 autres boutons.  
-1 liez le bouton _Clear Completed_ qui a l'Id *clear-completed-button* à une fonction *clearCompletedToDoItems*  
-2 liez le bouton _Empty List_ qui a l'Id *empty-button* à une fonction *emptyList*  
-3 liez le bouton _Save List_ qui a l'Id *save-button* à une fonction *saveList*  
+* liez le bouton _Clear Completed_ qui a l'Id *clear-completed-button* à une fonction *clearCompletedToDoItems*  
+* liez le bouton _Empty List_ qui a l'Id *empty-button* à une fonction *emptyList*  
+* liez le bouton _Save List_ qui a l'Id *save-button* à une fonction *saveList*  
 -------------------------------------------  
 # Etape 2 : Ajouter des évenements à la liste :  
 il s'agit maintenant de faire fonctionner les boutons correctement.  
