@@ -23,7 +23,6 @@ ajoutez le code suivant apres votre variable
 Vous avez :  
 * la fonction `addEventListener` attend un click sur votre variable addButton  
 * Quand le click arrive, cela lance la fonction `addToDoItem` (fonction que vous n'avez pas encore écrite)  
-  
 
 ajouter le code suivant à votre script : 
 function addToDoItem(){    
@@ -38,7 +37,7 @@ function addToDoItem(){
 # Etape 2 : Ajouter des évenements à la liste :  
 il s'agit maintenant de faire fonctionner les boutons correctement.  
 ## Les listes en HTML  
-Vous allez utliser un peu d'HTML ici. Dans notre cas, pour manipuler les listes, il y a deux balises : <ol> quand la liste est ordonnée (i.e. numérotée) et <li> pour identifier individuellement les listes.  
+Vous allez utliser un peu d'HTML ici. Dans notre cas, pour manipuler les listes, il y a deux balises : `<ol>` quand la liste est ordonnée (i.e. numérotée) et `<li>` pour identifier individuellement les listes.  
   
 
 
