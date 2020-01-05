@@ -59,8 +59,18 @@ puis modifiez la fonction `emptylist()` avec ce bloc ci :
 ![image](https://github.com/Svt-lim/SNT-Todo-list/blob/master/to%20do%20list%20images/8-remove.jpg)  
 # Etape 5 : Sauver ses listes.  
 pour sauver une liste il faut la stocker dans la mémoire de l'ordinateur. En JavaScript, on appelle cette "case" un array et cela est symabolisé par des [].  
-modifiez votrz fonction `saveList` comme suit :  
+modifiez votre fonction `saveList` comme suit :  
 ![image](https://github.com/Svt-lim/SNT-Todo-list/blob/master/to%20do%20list%20images/11-savethelist.jpg)  
+# dernière étape : charger une liste sauvegardée.
+
+une ultime fonction est nécessaire, nous l'appelerons loadlist().  
+Ajoutez là à la fin de votre code.  
+![image](https://github.com/Svt-lim/SNT-Todo-list/blob/master/to%20do%20list%20images/12-loadthelist.jpg)  
+
+#défi 3  
+pour que le programme soit complet il faut appeler la fonction loadlist() à la toute fin de votre code.  
+[indice](https://openclassrooms.com/fr/courses/146276-tout-sur-le-javascript/142744-creer-ses-propres-fonctions)
+
 
 
 
