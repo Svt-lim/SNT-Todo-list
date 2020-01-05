@@ -26,7 +26,19 @@ Vous avez :
   
 
 ajouter le code suivant à votre script : 
-`function addToDoItem() {  
+function addToDoItem(){    
   alert("Clic reussi!");  
-}`  
+}  
+-------------------------------------------
+# Défi 1 : écrire le code pour les 3 autres boutons.  
+1 liez le bouton _Clear Completed_ qui a l'Id *clear-completed-button* à une fonction *clearCompletedToDoItems*  
+2 liez le bouton _Empty List_ qui a l'Id *empty-button* à une fonction *emptyList*  
+3 liez le bouton _Save List_ qui a l'Id *save-button* à une fonction *saveList*  
+-------------------------------------------  
+# Etape 2 : Ajouter des évenements à la liste :  
+il s'agit maintenant de faire fonctionner les boutons correctement.  
+## Les listes en HTML  
+Vous allez utliser un peu d'HTML ici. Dans notre cas, pour manipuler les listes, il y a deux balises : <ol> quand la liste est ordonnée (i.e. numérotée) et <li> pour identifier individuellement les listes.  
+  
+
 
