@@ -10,7 +10,7 @@ Le code de base inclu 3 fichiers (sous la forme de 3 onglets) :
 * _script.js_ - le fichier pour le javascript  
 -------------------------------------------
 Le squelette et le style ayant été préparés pour vous, vous allez surtout interagir avec _script.js_ .  
-vous avez 4 boutons : _Add_,_Clear Completed_,_Empty List_;_Save List_.  
+vous avez 4 boutons : _Add_,_ClearCompleted_,_EmptyList_;_SaveList_.  
 La première chose à faire est de relier les boutons au script. 
 ajoutez le code suivant à votre script  
 ![image](https://github.com/Svt-lim/SNT-Todo-list/blob/master/to%20do%20list%20images/1-addbutton.jpg)  
